@@ -1,0 +1,8 @@
+2025-02-18 22:11:41,759 - 🔐 Logging into BullX...
+2025-02-18 22:11:41,759 - ====== WebDriver manager ======
+2025-02-18 22:11:41,898 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:11:41,961 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:11:42,042 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 22:11:54,721 - ✅ BullX Login Successful!
+2025-02-18 22:11:54,839 - ❌ Failed to buy PEPE. Response: 
+2025-02-18 22:11:56,933 - ❌ Failed to sell PEPE. Response: 

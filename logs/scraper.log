@@ -1,0 +1,195 @@
+2025-02-18 20:56:03,589 - 🚀 Bot Started
+2025-02-18 20:56:03,589 - ====== WebDriver manager ======
+2025-02-18 20:56:08,183 - Get LATEST chromedriver version for google-chrome
+2025-02-18 20:56:08,484 - Get LATEST chromedriver version for google-chrome
+2025-02-18 20:56:08,698 - There is no [mac64] chromedriver "133.0.6943.126" for browser google-chrome "133.0.6943" in cache
+2025-02-18 20:56:08,715 - Get LATEST chromedriver version for google-chrome
+2025-02-18 20:56:09,229 - WebDriver version 133.0.6943.126 selected
+2025-02-18 20:56:09,230 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/mac-arm64/chromedriver-mac-arm64.zip
+2025-02-18 20:56:09,230 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/mac-arm64/chromedriver-mac-arm64.zip
+2025-02-18 20:56:09,481 - Driver downloading response is 200
+2025-02-18 20:56:12,612 - Get LATEST chromedriver version for google-chrome
+2025-02-18 20:56:12,837 - Driver has been saved in cache [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126]
+2025-02-18 20:56:17,491 - ✅ Opened Telegram Web.
+2025-02-18 20:56:37,671 - ❌ Login error: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000104e42b58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x0000000104e3b1b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x00000001049a1afc cxxbridge1$string$len + 93348
+3   chromedriver                        0x00000001049e88f8 cxxbridge1$string$len + 383648
+4   chromedriver                        0x0000000104a29b94 cxxbridge1$string$len + 650556
+5   chromedriver                        0x00000001049dcba0 cxxbridge1$string$len + 335176
+6   chromedriver                        0x0000000104e0b610 cxxbridge1$str$ptr + 2498188
+7   chromedriver                        0x0000000104e0e924 cxxbridge1$str$ptr + 2511264
+8   chromedriver                        0x0000000104df0cb0 cxxbridge1$str$ptr + 2389292
+9   chromedriver                        0x0000000104e0f1cc cxxbridge1$str$ptr + 2513480
+10  chromedriver                        0x0000000104de1c98 cxxbridge1$str$ptr + 2327828
+11  chromedriver                        0x0000000104e2b880 cxxbridge1$str$ptr + 2629884
+12  chromedriver                        0x0000000104e2ba08 cxxbridge1$str$ptr + 2630276
+13  chromedriver                        0x0000000104e3ae2c cxxbridge1$str$ptr + 2692776
+14  libsystem_pthread.dylib             0x000000018cf92f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018cf8dd34 thread_start + 8
+
+2025-02-18 20:56:37,748 - 🔍 Scraping tokens...
+2025-02-18 20:56:38,151 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 20:56:38,338 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 20:56:38,854 - Failed to fetch https://dexscreener.com: 403 Client Error: Forbidden for url: https://dexscreener.com/
+2025-02-18 20:56:38,870 - 📢 Analyzing social media trust levels...
+2025-02-18 21:00:15,717 - 🚀 Bot Started
+2025-02-18 21:00:15,717 - 🔐 Logging into BullX...
+2025-02-18 21:00:15,717 - ====== WebDriver manager ======
+2025-02-18 21:00:15,914 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:00:16,110 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:00:16,686 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:00:45,944 - ✅ BullX Login Successful!
+2025-02-18 21:00:45,947 - 🔍 Scraping tokens...
+2025-02-18 21:00:46,222 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 21:00:46,411 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 21:00:47,282 - Failed to fetch https://dexscreener.com: 403 Client Error: Forbidden for url: https://dexscreener.com/
+2025-02-18 21:00:47,291 - 📢 Analyzing social media trust levels...
+2025-02-18 21:01:25,357 - 🚀 Bot Started
+2025-02-18 21:01:25,357 - 🔐 Logging into BullX...
+2025-02-18 21:01:25,357 - ====== WebDriver manager ======
+2025-02-18 21:01:25,485 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:01:25,668 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:01:25,824 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:03:02,327 - 🚀 Bot Started
+2025-02-18 21:03:02,327 - 🔐 Logging into BullX...
+2025-02-18 21:03:02,327 - ====== WebDriver manager ======
+2025-02-18 21:03:02,457 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:03:02,658 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:03:02,925 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:04:34,402 - 🚀 Bot Started
+2025-02-18 21:04:34,402 - 🔐 Logging into BullX...
+2025-02-18 21:04:34,402 - ====== WebDriver manager ======
+2025-02-18 21:04:34,585 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:04:34,791 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:04:35,174 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:04:47,485 - ✅ BullX Login Successful!
+2025-02-18 21:04:47,487 - 🔍 Scraping tokens...
+2025-02-18 21:04:47,781 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 21:04:47,974 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 21:04:49,019 - Failed to fetch https://dexscreener.com: 403 Client Error: Forbidden for url: https://dexscreener.com/
+2025-02-18 21:04:49,032 - 📢 Analyzing social media trust levels...
+2025-02-18 21:07:09,625 - 🚀 Bot Started
+2025-02-18 21:07:09,625 - 🔐 Logging into BullX...
+2025-02-18 21:07:09,625 - ====== WebDriver manager ======
+2025-02-18 21:07:09,803 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:07:10,014 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:07:10,217 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:07:22,349 - ✅ BullX Login Successful!
+2025-02-18 21:07:22,351 - 🔍 Scraping tokens...
+2025-02-18 21:07:22,687 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 21:07:22,687 - ⚠️ scrape_pump_fun returned no data.
+2025-02-18 21:07:22,919 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 21:07:22,920 - ⚠️ scrape_gmgn returned no data.
+2025-02-18 21:07:23,727 - ⚠️ scrape_meteora returned no data.
+2025-02-18 21:07:23,930 - ⚠️ scrape_dexscreener returned no data.
+2025-02-18 21:07:23,930 - ❌ No data collected. Exiting bot.
+2025-02-18 21:10:49,415 - 🚀 Bot Started
+2025-02-18 21:10:49,415 - 🔐 Logging into BullX...
+2025-02-18 21:10:49,415 - ====== WebDriver manager ======
+2025-02-18 21:10:49,678 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:10:49,851 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:10:50,227 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:11:02,986 - ✅ BullX Login Successful!
+2025-02-18 21:11:02,989 - 🔍 Scraping tokens...
+2025-02-18 21:11:03,222 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 21:11:03,223 - ⚠️ scrape_pump_fun returned no data.
+2025-02-18 21:11:03,431 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 21:11:03,431 - ⚠️ scrape_gmgn returned no data.
+2025-02-18 21:11:04,154 - ⚠️ scrape_meteora returned no data.
+2025-02-18 21:11:04,350 - ⚠️ scrape_dexscreener returned no data.
+2025-02-18 21:11:04,350 - ❌ No data collected. Exiting bot.
+2025-02-18 21:19:19,490 - 🚀 Bot Started
+2025-02-18 21:19:19,490 - 🔐 Logging into BullX...
+2025-02-18 21:19:19,490 - ====== WebDriver manager ======
+2025-02-18 21:19:19,751 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:19:19,934 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:19:20,128 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:19:32,692 - ✅ BullX Login Successful!
+2025-02-18 21:19:32,695 - 🔍 Scraping tokens...
+2025-02-18 21:19:32,980 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 21:19:32,980 - ⚠️ scrape_pump_fun returned no data.
+2025-02-18 21:19:33,197 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 21:19:33,198 - ⚠️ scrape_gmgn returned no data.
+2025-02-18 21:19:33,737 - ⚠️ scrape_meteora returned no data.
+2025-02-18 21:19:33,737 - 🔍 Scraping Dexscreener...
+2025-02-18 21:19:35,581 - patching driver executable /Users/kazi/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-02-18 21:19:49,923 - ✅ No CAPTCHA detected.
+2025-02-18 21:19:57,295 - ✅ Extracted 0 tokens from Dexscreener
+2025-02-18 21:19:57,318 - ⚠️ scrape_dexscreener returned no data.
+2025-02-18 21:19:57,318 - ❌ No data collected. Exiting bot.
+2025-02-18 21:21:48,463 - 🚀 Bot Started
+2025-02-18 21:21:48,463 - 🔐 Logging into BullX...
+2025-02-18 21:21:48,463 - ====== WebDriver manager ======
+2025-02-18 21:21:48,760 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:21:49,465 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:21:49,633 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:22:02,083 - ✅ BullX Login Successful!
+2025-02-18 21:22:02,085 - 🔍 Scraping tokens...
+2025-02-18 21:22:02,796 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 21:22:02,796 - ⚠️ scrape_pump_fun returned no data.
+2025-02-18 21:22:02,974 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 21:22:02,975 - ⚠️ scrape_gmgn returned no data.
+2025-02-18 21:22:03,426 - ⚠️ scrape_meteora returned no data.
+2025-02-18 21:22:03,426 - 🔍 Scraping Dexscreener...
+2025-02-18 21:22:06,451 - patching driver executable /Users/kazi/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-02-18 21:22:20,750 - ✅ No CAPTCHA detected.
+2025-02-18 21:22:30,334 - ✅ Extracted 0 tokens from Dexscreener
+2025-02-18 21:22:30,472 - ⚠️ scrape_dexscreener returned no data.
+2025-02-18 21:22:30,472 - ❌ No data collected. Exiting bot.
+2025-02-18 21:26:24,184 - 🚀 Bot Started
+2025-02-18 21:26:24,184 - 🔐 Logging into BullX...
+2025-02-18 21:26:24,184 - ====== WebDriver manager ======
+2025-02-18 21:26:24,478 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:26:24,692 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:26:24,876 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:26:37,178 - ✅ BullX Login Successful!
+2025-02-18 21:26:37,180 - 🔍 Scraping tokens...
+2025-02-18 21:26:37,488 - ✅ Scraped 0 tokens from Pump.fun
+2025-02-18 21:26:37,489 - ⚠️ scrape_pump_fun returned no data.
+2025-02-18 21:26:37,639 - Failed to fetch https://gmgn.ai/?chain=sol: 403 Client Error: Forbidden for url: https://gmgn.ai/?chain=sol
+2025-02-18 21:26:37,639 - ⚠️ scrape_gmgn returned no data.
+2025-02-18 21:26:38,161 - ⚠️ scrape_meteora returned no data.
+2025-02-18 21:26:38,161 - 🔍 Scraping Dexscreener...
+2025-02-18 21:26:39,894 - patching driver executable /Users/kazi/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-02-18 21:26:54,098 - ✅ No CAPTCHA detected.
+2025-02-18 21:27:03,564 - ✅ Extracted 0 tokens from Dexscreener
+2025-02-18 21:27:03,592 - ⚠️ scrape_dexscreener returned no data.
+2025-02-18 21:27:03,592 - ❌ No data collected. Exiting bot.
+2025-02-18 21:42:33,901 - 🚀 Bot Started
+2025-02-18 21:42:33,902 - 🔐 Logging into BullX...
+2025-02-18 21:42:33,902 - ====== WebDriver manager ======
+2025-02-18 21:42:34,025 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:42:34,281 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:42:34,752 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:43:10,584 - 🚀 Bot Started
+2025-02-18 21:43:10,585 - 🔐 Logging into BullX...
+2025-02-18 21:43:10,585 - ====== WebDriver manager ======
+2025-02-18 21:43:10,653 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:43:10,905 - Get LATEST chromedriver version for google-chrome
+2025-02-18 21:43:11,057 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 21:59:36,905 - ✅ No CAPTCHA detected. Proceeding.
+2025-02-18 22:00:29,862 - ✅ No CAPTCHA detected. Proceeding.
+2025-02-18 22:00:29,873 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1138378c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/25b458a113fa3912c574c46626b7ac17/element
+2025-02-18 22:00:29,874 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x113807250>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/25b458a113fa3912c574c46626b7ac17/element
+2025-02-18 22:00:29,875 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x113807610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/25b458a113fa3912c574c46626b7ac17/element
+2025-02-18 22:00:53,700 - 🚀 Bot Started
+2025-02-18 22:00:53,700 - 🔐 Logging into BullX...
+2025-02-18 22:00:53,700 - ====== WebDriver manager ======
+2025-02-18 22:00:53,768 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:00:53,857 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:00:53,901 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 22:10:35,002 - 🚀 Bot Started
+2025-02-18 22:10:35,002 - 🔐 Logging into BullX...
+2025-02-18 22:10:35,002 - ====== WebDriver manager ======
+2025-02-18 22:10:35,069 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:10:35,132 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:10:35,181 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-18 22:21:42,406 - 🚀 Bot Started
+2025-02-18 22:21:42,406 - 🔐 Logging into BullX...
+2025-02-18 22:21:42,406 - ====== WebDriver manager ======
+2025-02-18 22:21:42,528 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:21:42,594 - Get LATEST chromedriver version for google-chrome
+2025-02-18 22:21:42,643 - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache

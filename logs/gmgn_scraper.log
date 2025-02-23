@@ -1,0 +1,77 @@
+2025-02-19 21:47:13,464 - INFO - ====== WebDriver manager ======
+2025-02-19 21:47:13,748 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:47:13,833 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:47:13,890 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:47:14,029 - INFO - WebDriver version 133.0.6943.126 selected
+2025-02-19 21:47:14,030 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/mac-arm64/chromedriver-mac-arm64.zip
+2025-02-19 21:47:14,030 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.126/mac-arm64/chromedriver-mac-arm64.zip
+2025-02-19 21:47:14,102 - INFO - Driver downloading response is 200
+2025-02-19 21:47:14,603 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:47:14,715 - INFO - Driver has been saved in cache [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126]
+2025-02-19 21:47:15,967 - INFO - 🔍 Scraping GMGN for new tokens...
+2025-02-19 21:47:22,318 - ERROR - ❌ Error loading GMGN: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-02-19 21:47:22,319 - INFO - 🔄 Waiting for next update...
+2025-02-19 21:48:22,325 - INFO - 🔍 Scraping GMGN for new tokens...
+2025-02-19 21:48:22,334 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10679a990>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fd7d67e0020b6a8045d9bcec229bfd2d/url
+2025-02-19 21:48:22,336 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10679a850>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fd7d67e0020b6a8045d9bcec229bfd2d/url
+2025-02-19 21:48:22,338 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1067c3490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fd7d67e0020b6a8045d9bcec229bfd2d/url
+2025-02-19 21:48:40,152 - INFO - ====== WebDriver manager ======
+2025-02-19 21:48:40,267 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:48:40,325 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:48:40,380 - INFO - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-19 21:48:41,465 - INFO - 🔍 Scraping GMGN for new tokens...
+2025-02-19 21:48:54,416 - ERROR - ❌ Error loading GMGN: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.126)
+Stacktrace:
+0   chromedriver                        0x0000000104ebeb58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x0000000104eb71b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x0000000104a1dafc cxxbridge1$string$len + 93348
+3   chromedriver                        0x00000001049f74d4 chromedriver + 128212
+4   chromedriver                        0x0000000104a8cb24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x0000000104aa5694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x0000000104a58ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000104e87610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x0000000104e8a924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x0000000104e6ccb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x0000000104e8b1cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x0000000104e5dc98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000104ea7880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000104ea7a08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000104eb6e2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x000000018cf92f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018cf8dd34 thread_start + 8
+
+2025-02-19 21:48:54,418 - INFO - 🔄 Waiting for next update...
+2025-02-19 21:49:11,520 - INFO - ====== WebDriver manager ======
+2025-02-19 21:49:11,630 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:49:11,707 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:49:11,762 - INFO - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-19 21:49:20,819 - INFO - ====== WebDriver manager ======
+2025-02-19 21:49:20,928 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:49:20,987 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-19 21:49:21,053 - INFO - Driver [/Users/kazi/.wdm/drivers/chromedriver/mac64/133.0.6943.126/chromedriver-mac-arm64/chromedriver] found in cache
+2025-02-19 21:49:21,956 - INFO - 🔍 Scraping GMGN for new tokens...
+2025-02-19 21:49:25,672 - ERROR - ❌ Error loading GMGN: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=133.0.6943.126)
+Stacktrace:
+0   chromedriver                        0x0000000100b56b58 cxxbridge1$str$ptr + 2724820
+1   chromedriver                        0x0000000100b4f1b8 cxxbridge1$str$ptr + 2693684
+2   chromedriver                        0x00000001006b5afc cxxbridge1$string$len + 93348
+3   chromedriver                        0x000000010068f4d4 chromedriver + 128212
+4   chromedriver                        0x0000000100724b24 cxxbridge1$string$len + 548044
+5   chromedriver                        0x000000010073d694 cxxbridge1$string$len + 649276
+6   chromedriver                        0x00000001006f0ba0 cxxbridge1$string$len + 335176
+7   chromedriver                        0x0000000100b1f610 cxxbridge1$str$ptr + 2498188
+8   chromedriver                        0x0000000100b22924 cxxbridge1$str$ptr + 2511264
+9   chromedriver                        0x0000000100b04cb0 cxxbridge1$str$ptr + 2389292
+10  chromedriver                        0x0000000100b231cc cxxbridge1$str$ptr + 2513480
+11  chromedriver                        0x0000000100af5c98 cxxbridge1$str$ptr + 2327828
+12  chromedriver                        0x0000000100b3f880 cxxbridge1$str$ptr + 2629884
+13  chromedriver                        0x0000000100b3fa08 cxxbridge1$str$ptr + 2630276
+14  chromedriver                        0x0000000100b4ee2c cxxbridge1$str$ptr + 2692776
+15  libsystem_pthread.dylib             0x000000018cf92f94 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018cf8dd34 thread_start + 8
+
+2025-02-19 21:49:25,673 - INFO - 🔄 Waiting for next update...

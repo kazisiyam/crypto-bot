@@ -1,0 +1,7 @@
+2025-02-19 22:00:23,464 - Error verifying contract SOME_TEST_CONTRACT: HTTPSConnectionPool(host='api.solsniffer.com', port=443): Max retries exceeded with url: /v1/token/SOME_TEST_CONTRACT (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x104203cb0>: Failed to resolve 'api.solsniffer.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-02-19 22:00:36,140 - patching driver executable /Users/kazi/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-02-19 22:00:39,810 - 🚀 Opening Pump.fun
+2025-02-19 22:00:56,134 - 🔍 Scraping Pump.fun tokens...
+2025-02-19 22:00:56,174 - ✅ Found 0 tokens.
+2025-02-19 22:00:56,192 - 📂 Saved 0 verified tokens to CSV.
+2025-02-19 22:00:56,192 - ✅ Pump.fun scraping complete!
